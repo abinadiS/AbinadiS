@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | JavaScript & Python | Data Science
 ---------------------------------------------------------
 
-Full Stack Developer con conocimientos sólidos en JavaScript y Python. Trabajo con React para desarrollo frontend, Node.js para crear APIs backend, y FastAPI para servicios web eficientes. Tengo experiencia práctica con bases de datos SQL para el manejo y consulta de información, así como con sklearn para implementar modelos de machine learning y aplicar técnicas de ciencia de datos en proyectos personales. Me interesa la intersección entre el desarrollo web y el análisis de datos, creando aplicaciones que integran ambas áreas para resolver problemas reales. Siempre aprendiendo y mejorando mis habilidades a través de proyectos que combinan desarrollo full stack con insights basados en datos.
+Full Stack Developer with solid knowledge in JavaScript and Python. I work with React for frontend development, Node.js for creating backend APIs, and FastAPI for efficient web services. I have practical experience with SQL databases for data management and querying, as well as with sklearn for implementing machine learning models and applying data science techniques in personal projects. I'm interested in the intersection between web development and data analysis, creating applications that integrate both areas to solve real problems. Always learning and improving my skills through projects that combine full stack development with data-driven insights.
 
 * 🌍  I'm based in Bogota
 * 🖥️  See my portfolio at [https://porfolio2025-seven.vercel.app/](http://porfolio2025-seven.vercel.app/)
