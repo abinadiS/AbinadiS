@@ -6,7 +6,7 @@ Full Stack Developer | JavaScript & Python | Data Science
 
 Full Stack Developer with solid knowledge in JavaScript and Python. I work with React for frontend development, Node.js for creating backend APIs, and FastAPI for efficient web services. I have practical experience with SQL databases for data management and querying, as well as with sklearn for implementing machine learning models and applying data science techniques in personal projects. I'm interested in the intersection between web development and data analysis, creating applications that integrate both areas to solve real problems. Always learning and improving my skills through projects that combine full stack development with data-driven insights.
 
-* 🌍  I'm based in Bogota
+* 🌍  I'm based in Bogotá
 * 🖥️  See my portfolio at [https://porfolio2025-seven.vercel.app/](http://porfolio2025-seven.vercel.app/)
 * ✉️  You can contact me at [abinadiesteven@gmail.com](mailto:abinadiesteven@gmail.com)
 * 🧠  I'm learning Next JS
