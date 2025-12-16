@@ -9,7 +9,6 @@ Full Stack Developer with solid knowledge in JavaScript and Python. I work with 
 * 🌍  I'm based in Bogotá
 * 🖥️  See my portfolio at [https://porfolio2025-seven.vercel.app/](http://porfolio2025-seven.vercel.app/)
 * ✉️  You can contact me at [abinadiesteven@gmail.com](mailto:abinadiesteven@gmail.com)
-* 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on Full stack projects, machine learning applications, and open source contributions in JavaScript
 
 ### Skills
