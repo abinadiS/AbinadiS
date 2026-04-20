@@ -22,4 +22,3 @@ Full Stack Developer with solid knowledge in JavaScript and Python. I work with 
 
 <a href="http://www.github.com/abinadiS"><img src="https://github-readme-stats.vercel.app/api?username=abinadiS&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="abinadiS's GitHub stats" /></a>
 
-<a href="https://github.com/abinadiS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinadiS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
